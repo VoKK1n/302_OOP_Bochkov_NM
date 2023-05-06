@@ -1,0 +1,19 @@
+{
+    "name": "vokkin/task04",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/CheckIfBalanced.php",
+            "src/Test.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "VoKKin",
+            "email": "kataman2291@mail.ru"
+        }
+    ],
+    "require": {}
+}
